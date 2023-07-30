@@ -6,9 +6,8 @@ Full Stack Developer & Malware Analyst
 
 i do web development Frontend and backend i also do desktop application i THINK in binary ! , also i love getting into CyberSecurity and hacking around really...
 
-*   🌍  I'm based in Algeria
 *   🖥️  See my portfolio at [My portfolio website](https://portfolio-oj6g.onrender.com/)
-*   ✉️  You can contact me at [hadjmus99@gmail.com](mailto:hadjmus99@gmail.com)
+*   ✉️  You can contact me on [Telegram](https://t.me/echo995)
 *   🧠  I'm learning Python
 *   🤝  I'm open to collaborating on React Javascript
 *   ⚡  My discord server : https://discord.gg/MrDv636S
