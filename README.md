@@ -1,7 +1,7 @@
 Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)My name is Mustapha
 ================================================================================================================================
 
-Full Stack Developer & Malware Analyst
+Full Stack Developer
 --------------------------------------
 
 i do web development Frontend and backend i also do desktop application i THINK in binary ! , also i love getting into CyberSecurity and hacking around really...
