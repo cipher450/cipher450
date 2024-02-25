@@ -4,7 +4,7 @@ Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-912
 Full Stack Developer
 --------------------------------------
 
-i do web development Frontend and backend i also do desktop application i THINK in binary ! , also i love getting into CyberSecurity and hacking around really...
+i do web development Frontend and backend i also do desktop application , also i love getting into CyberSecurity and hacking around really...
 
 *   🖥️  See my portfolio at [My portfolio website](https://portfolio-oj6g.onrender.com/)
 *   ✉️  You can contact me on [Telegram](https://t.me/echo995)
