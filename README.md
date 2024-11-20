@@ -10,7 +10,6 @@ i do web development Frontend and backend i also do desktop application , also i
 *   ✉️  You can contact me on [Telegram](https://t.me/echo995)
 *   🧠  I'm learning Python
 *   🤝  I'm open to collaborating on React Javascript
-*   ⚡  My discord server : https://discord.gg/MrDv636S
 
 ### Skills 
 <p align="left">
